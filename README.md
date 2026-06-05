@@ -1,8 +1,8 @@
-# OpenStoreDZ
+# ambyte-agency
 
 > Built as a voluntary (pro-bono) contribution for **ambyte-agency**.
 
-A modern, performant, and fully internationalized e-commerce platform built with Next.js.
+A modern, performant, and fully internationalized platform built with Next.js.
 
 ## Features
 
