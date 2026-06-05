@@ -1,0 +1,101 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "services": "Services",
+    "projects": "Projets",
+    "events": "Événements",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Des Solutions Numériques qui Produisent des Résultats",
+    "subtitle": "Des services complets adaptés à vos besoins professionnels",
+    "startNow": "Commencer"
+  },
+  "Services": {
+    "customWeb": {
+      "title": "Applications Web Sur Mesure",
+      "desc": "Applications Web riches en fonctionnalités, construites avec des frameworks modernes pour rationaliser vos flux de travail et engager vos utilisateurs."
+    },
+    "ecommerce": {
+      "title": "Solutions E-Commerce",
+      "desc": "Boutiques en ligne évolutives avec des paiements fluides, des transactions sécurisées, une synchronisation des stocks et des panneaux de gestion faciles."
+    },
+    "saas": {
+      "title": "Développement de Plateformes SaaS",
+      "desc": "Systèmes logiciels cloud robustes conçus avec des architectures de base de données évolutives, un accès utilisateur sécurisé et des tableaux de bord analytiques dynamiques."
+    },
+    "landing": {
+      "title": "Pages d'Atterrissage & Portfolios",
+      "desc": "Pages d'atterrissage haute performance optimisées pour les moteurs de recherche et sites marketing conçus pour convertir les visiteurs en clients fidèles."
+    }
+  },
+  "WebExpo": {
+    "title": "Web Expo 2026",
+    "description": "Nous étions fiers exposants au Web Expo 2026 (4e édition) qui s'est tenu les 9, 10 et 11 avril. Ce fut une opportunité incroyable de présenter nos dernières innovations et de nous connecter avec la communauté tech.",
+    "label": "Web Expo 2026",
+    "photoCount": "Photo {count} sur {total}"
+  },
+  "Contact": {
+    "getInTouch": "PRENEZ CONTACT",
+    "heading": "Construisons Ensemble Quelque Chose d'Extraordinaire",
+    "subtitle": "Parlez-nous de votre projet et nous vous répondrons sous 24 heures",
+    "agencyContacts": "Contacts de l'Agence",
+    "contactDirectly": "Contactez-nous Directement",
+    "email": "Email",
+    "phone": "Téléphone",
+    "followUs": "Suivez-Nous",
+    "categoryCustomWeb": "Applications Web Sur Mesure",
+    "categoryEcommerce": "Solutions E-Commerce",
+    "categorySaas": "Développement SaaS",
+    "categoryLanding": "Pages d'Atterrissage & Portfolios",
+    "yourMessage": "Votre Message *",
+    "messagePlaceholder": "Entrez votre message ici",
+    "nextStep": "Étape Suivante",
+    "step1Title": "Quel projet construisons-nous ?",
+    "step1Desc": "Sélectionnez la catégorie du projet et décrivez ses fonctionnalités.",
+    "step2Title": "Quel est votre budget estimé ?",
+    "step2Desc": "Cela nous aide à proposer la meilleure solution pour vous.",
+    "budget1": "5 000 $ - 10 000 $",
+    "budget2": "10 000 $ - 25 000 $",
+    "budget3": "25 000 $ - 50 000 $",
+    "budget4": "50 000 $+",
+    "yourName": "Votre Nom",
+    "namePlaceholder": "Nom complet",
+    "emailAddress": "Adresse Email",
+    "emailPlaceholder": "vous@exemple.com",
+    "back": "Retour",
+    "step3Title": "Presque terminé !",
+    "step3Desc": "Veuillez vérifier vos informations et soumettre.",
+    "category": "Catégorie :",
+    "message": "Message :",
+    "budget": "Budget :",
+    "name": "Nom :",
+    "email": "Email :",
+    "notSelected": "Non sélectionné",
+    "notSpecified": "Non spécifié",
+    "sendMessage": "Envoyer le Message",
+    "stepDetails": "Détails",
+    "stepBudget": "Budget",
+    "stepSubmit": "Soumettre",
+    "successAlert": "Merci ! Nous vous répondrons sous 24 heures."
+  },
+  "Footer": {
+    "tagline": "Ambyte Agency est un studio créatif dédié à la création d'expériences numériques haut de gamme qui stimulent la croissance et inspirent les utilisateurs.",
+    "quickLinks": "Liens Rapides",
+    "home": "Accueil",
+    "services": "Services",
+    "projects": "Projets",
+    "events": "Événements",
+    "contact": "Contact",
+    "contactUs": "Contactez-Nous",
+    "rights": "© {year} Ambyte Agency. Tous droits réservés.",
+    "builtWith": "Construit avec passion pour l'excellence numérique."
+  },
+  "Admin": {
+    "title": "page d'administration"
+  },
+  "Layout": {
+    "title": "openstoredz",
+    "description": "Plateforme e-commerce open source construite avec Next.js, Go, PostgreSQL"
+  }
+}

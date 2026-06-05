@@ -1,0 +1,101 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "events": "Events",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "Digital Solutions That Drive Results",
+    "subtitle": "Comprehensive services tailored to your business needs",
+    "startNow": "Start Now"
+  },
+  "Services": {
+    "customWeb": {
+      "title": "Custom Web Applications",
+      "desc": "Tailored, feature-rich web applications built with modern frameworks to streamline your business workflows and engage users."
+    },
+    "ecommerce": {
+      "title": "E-Commerce Solutions",
+      "desc": "Scalable online stores featuring seamless checkouts, secure payments, inventory synchronization, and easy management panels."
+    },
+    "saas": {
+      "title": "SaaS Platform Development",
+      "desc": "Robust cloud software systems engineered with scalable database architectures, secure user access, and dynamic analytics dashboards."
+    },
+    "landing": {
+      "title": "Landing Pages & Portfolios",
+      "desc": "High-performance, search-optimized landing pages and marketing sites structured to convert visitors into loyal clients."
+    }
+  },
+  "WebExpo": {
+    "title": "Web Expo 2026",
+    "description": "We were proud exhibitors at the Web Expo 2026 (4th Edition) held on April 9th, 10th, and 11th. It was an incredible opportunity to showcase our latest innovations and connect with the tech community.",
+    "label": "Web Expo 2026",
+    "photoCount": "Photo {count} of {total}"
+  },
+  "Contact": {
+    "getInTouch": "GET IN TOUCH",
+    "heading": "Let's Build Something Amazing Together",
+    "subtitle": "Tell us about your project and we'll get back to you within 24 hours",
+    "agencyContacts": "Agency Contacts",
+    "contactDirectly": "Get in Touch Directly",
+    "email": "Email",
+    "phone": "Phone",
+    "followUs": "Follow Us",
+    "categoryCustomWeb": "Custom Web Applications",
+    "categoryEcommerce": "E-Commerce Solutions",
+    "categorySaas": "SaaS Platform Development",
+    "categoryLanding": "Landing Pages & Portfolios",
+    "yourMessage": "Your Message *",
+    "messagePlaceholder": "Enter Your Message Here",
+    "nextStep": "Next Step",
+    "step1Title": "What project are we building?",
+    "step1Desc": "Select project category and describe your features.",
+    "step2Title": "What's your estimated budget?",
+    "step2Desc": "This helps us propose the best solution for you.",
+    "budget1": "$5,000 - $10,000",
+    "budget2": "$10,000 - $25,000",
+    "budget3": "$25,000 - $50,000",
+    "budget4": "$50,000+",
+    "yourName": "Your Name",
+    "namePlaceholder": "Full name",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "you@example.com",
+    "back": "Back",
+    "step3Title": "Almost there!",
+    "step3Desc": "Please review your information and submit.",
+    "category": "Category:",
+    "message": "Message:",
+    "budget": "Budget:",
+    "name": "Name:",
+    "email": "Email:",
+    "notSelected": "Not selected",
+    "notSpecified": "Not specified",
+    "sendMessage": "Send Message",
+    "stepDetails": "Details",
+    "stepBudget": "Budget",
+    "stepSubmit": "Submit",
+    "successAlert": "Thank you! We'll get back to you within 24 hours."
+  },
+  "Footer": {
+    "tagline": "Ambyte Agency is a creative studio dedicated to building high-end digital experiences that drive growth and inspire users.",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "events": "Events",
+    "contact": "Contact",
+    "contactUs": "Contact Us",
+    "rights": "© {year} Ambyte Agency. All rights reserved.",
+    "builtWith": "Built with passion for digital excellence."
+  },
+  "Admin": {
+    "title": "admin page"
+  },
+  "Layout": {
+    "title": "openstoredz",
+    "description": "Open source ecommerce platform built with Next.js, Go, PostgreSQL"
+  }
+}
